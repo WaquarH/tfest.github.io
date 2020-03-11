@@ -784,3 +784,7 @@ footer a:hover{
   text-decoration: none;
   font-size: 1.2em;
 }
+.sponsors .card{
+  border-color: #fffffb;
+  padding-top: 2em;
+}
